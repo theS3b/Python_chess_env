@@ -1,0 +1,11 @@
+﻿  board.cpp
+  chess_attacked.cpp
+  chess_moves.cpp
+  consts.cpp
+  link_nn.cpp
+  utils.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  chess_env_cpp.vcxproj -> C:\Users\seb\Desktop\TM 1.2\Python-lib-master\x64\Release\chess_env.pyd
